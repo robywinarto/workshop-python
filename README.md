@@ -1,1 +1,3 @@
-# workshop-python
+# Workshop Repository
+
+This repo is my code demo. 
