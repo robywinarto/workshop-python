@@ -1,9 +1,7 @@
 .idea
 .vscode
 .logs
-./scripts/update_thalentfrx.sh
-.env
-.env.dev
+.scripts/update_thalentfrx.sh
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
@@ -135,8 +133,8 @@ celerybeat.pid
 *.sage.py
 
 # Environments
-../.env
-../.env.dev
+.env
+.env.dev
 .venv
 env/
 venv/
